@@ -1,0 +1,60 @@
+=> Lists are used to store multiple items in a single variables
+
+=> Methos in Lists
+    - Index
+    - Append #Adds item to the end
+    - Extend # Increases the size of the list 
+    - insert
+
+=> A tuple is an ordered, immutable collection of elements, commonly used in programming 
+to store a sequence of mixed data types in a single variable
+    - Syntax= a=(elemnts)
+
+=> """ Triple souble inverted comma is use dfor multi line input in string
+
+
+=> F-string= The string in which we insert any variable value directly in the curly braces.
+    - Syntax= print(f"My name is {str}") here str is a variable holding the name.
+
+
+=> String inbuilt methods
+    - isPrintable()
+    - Istitle()
+    - Isspace()
+    - Isuppercase()
+    - Islowecase()
+
+
+=> numpy:(Numerical Python)It is a foundational open-source library for the Python programming language,
+designed for scientific computing, data analysis, and machine learning.
+    - A powerful N- dimensional array object
+    - Memory efficient
+
+=> Numpy function
+    - abs
+    - add()
+    - binomial()
+    - cumsum()
+    - floor()
+    - hoistogram()
+
+=> Array creation
+    - np.ones
+    - np.zeros
+    - np.arrange
+    - np.concatenate
+    - np.astype
+    - np.zeros_like
+    - np.ones_like
+    - np.rdandom
+
+
+
+
+
+List 
+Tuple
+string
+numpy
+Array shape
+Slice
