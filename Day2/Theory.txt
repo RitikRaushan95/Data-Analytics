@@ -1,0 +1,45 @@
+=> File Handling in 
+    - "r"= Read
+    - "a"= Append
+    - "w"= Write
+    - "x"= Create
+
+=> Conditional
+    - if
+    - if else
+    if else if else
+
+=> Loop 
+    - While
+    - For
+    -else suite
+
+=> Control
+    - break
+    - continue
+    - pass
+
+=> Python treat some value as false 
+    - [](Null)
+    - None
+    - 0
+    - 0.0
+    - False
+
+
+=> Python always works on indentation means after condition make sure to use a tab in next line
+
+=> Set elements are immutable but set is mutable means we can insert element in set 
+but we can't change the existig valye in set. Set contains unique value
+
+
+=> Operations on set:
+    #1. discard() method: it only skips the value if it is not present in the set, it does not throw any error.
+    #2. remove() method: it throws an error if the value is not present in the set.
+    #3. pop() method:
+    #4. union() method: or use operator= |
+    #5. intersection() method: or use operator= &
+    #6. issubset() method: check for subset
+
+=> Dictionary: It is an unordererd clcn of items. Each item is stored in key and Value;
+

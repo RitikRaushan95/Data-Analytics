@@ -1,0 +1,26 @@
+Python was invented was Guido Van Rossum in 1991
+Anything can be implemented in Python.
+Using different libraries:
+Data- Pandas
+
+
+
+SQL: For Data Analysis
+Joint 
+Window Func
+PowerBi
+
+
+
+
+
+Python is Case sensitive. So num and Num are diffrent variables
+num=5
+Num=5
+
+
+
+
+welldound
+devnetindia.org
+ngobox
