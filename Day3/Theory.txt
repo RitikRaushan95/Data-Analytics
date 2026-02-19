@@ -49,8 +49,15 @@ designed for scientific computing, data analysis, and machine learning.
     - np.rdandom
 
 
+=> Basic operation of numpy
+    -Addition
+    -Subtraction
+    -Multiplication
+    - Squaring each elements
 
 
+=> Series is way of modeling 1D data in Pandas
+    -Multiple series make a dataframe
 
 List 
 Tuple
@@ -58,3 +65,7 @@ string
 numpy
 Array shape
 Slice
+
+
+Series
+
