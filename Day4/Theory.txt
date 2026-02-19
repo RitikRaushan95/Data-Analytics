@@ -1,0 +1,28 @@
+=>Seaborn: It's a popular Python library for creating attractive and informative statistical graphics
+
+=>  Default datasets available in seaborn
+['anagrams',
+ 'anscombe',
+ 'attention',
+ 'brain_networks',
+ 'car_crashes',
+ 'diamonds',
+ 'dots',
+ 'dowjones',
+ 'exercise',
+ 'flights',
+ 'fmri',
+ 'geyser',
+ 'glue',
+ 'healthexp',
+ 'iris',
+ 'mpg',
+ 'penguins',
+ 'planets',
+ 'seaice',
+ 'taxis',
+ 'tips',
+ 'titanic']
+
+
+ =>Sampling: It takes certaun part of complete information and respresents  
