@@ -1,0 +1,8 @@
+=> To test our dataset using 10-Fold Cross Validation, forecasting models, and other AI models in Python, 
+   we can use libraries like:
+
+    - scikit-learn (for general ML + cross-validation)
+    - statsmodels (for classical forecasting)
+    - tensorflow / keras (for deep learning)
+    - xgboost, lightgbm (advanced models)
+    - prophet (for time-series forecasting)
